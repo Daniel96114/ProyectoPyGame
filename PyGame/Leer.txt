@@ -1,0 +1,7 @@
+Daniel Camilo Mesa Salcedo 20141020056
+Daniel Arturo Sáenz Quintero 20141020060
+
+Para el correcto funcionamiento del programa se requiere la instalación de anaconda y la libreria PyAudio
+
+La Finalidad del programa es juntar 3 archivos de audio y como resultado obtenemos un solo archivo.
+Siendo de utilidad para crear pistas de sonido para distintos juegos. Incluye archivos wav de prueba.
